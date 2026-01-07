@@ -15,5 +15,5 @@
     *     uv pip install qdrant_client
     *     uv pip install PyMuPDF
   
-10. Run the app via vs code and follow the prompts.
+10. Run the app by first running VectorEmbeddings.py and then run VectorSearch.py
 
