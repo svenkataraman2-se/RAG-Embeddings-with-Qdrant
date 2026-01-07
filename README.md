@@ -14,6 +14,7 @@
     *     download python app dependencies -
     *     uv pip install qdrant_client
     *     uv pip install PyMuPDF
+    *     uv pip install ollama
   
 10. Run the app by first running VectorEmbeddings.py and then run VectorSearch.py
 
