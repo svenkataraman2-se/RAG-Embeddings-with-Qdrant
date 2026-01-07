@@ -1,5 +1,5 @@
 1. Follow the step by step instructions to run the project
-2. Download the source and open with VS code.
+2. Download the repository to your windows directory and open with VS code.
 3. Download Ollama for windows from https://ollama.com/download and run ollama
 4. pull and download any transformer, embedding model from huggingface.io
 5. run llama3.1 from ollama using ollama run llama3.1 from git bash ( check for any newer open source ollama models)
